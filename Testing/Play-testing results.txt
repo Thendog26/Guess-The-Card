@@ -1,0 +1,4 @@
+I got myself and my room mates to play test my game and the following adjustments were made based off of that testing
+-> Changed difficulty from 4 -> 3 guesses (was too easy to pick a middle number and cheese the game with hints) 
+-> Implimented game reset function within code (used to have to manually do it)
+-> Fixed game reset function to reshuffle deck pick

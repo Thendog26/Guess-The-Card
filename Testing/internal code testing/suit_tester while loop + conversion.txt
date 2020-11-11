@@ -1,0 +1,8 @@
+input	 expected output	output
+s	 "Spades"		"Spades"
+c	 "Clubs"		"Clubs"
+h	 "Hearts"		"Hearts"
+d	 "Diamonds"		"Diamonds"
+30	 N/A (question reasked) N/A (question reasked)
+$%^	 N/A (question reasked) N/A (question reasked)
+j	 N/A (question reasked) N/A (question reasked)	

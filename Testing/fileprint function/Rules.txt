@@ -1,0 +1,20 @@
+# Rules for Nathan's card guessing game #
+In this game, the computer randomly picks a card from a standard deck of cards
+(excluding jokers) and you have only 4 attempts to guess the correct card!
+
+After each guess however, you'll be told whether you had;
+- The correct suit
+- Were within 5 numbers of the correct number
+- Were within 2 numbers of the correct number
+This should help you track down the correct card so use
+your guesses wisely!
+
+Note: When the computer asks for suit and number, keep in
+mind that...
+- Hearts = h 
+- Diamonds = d 
+- Spades = s
+- Clubs = c 
+- 1,11,12,13 = Ace, Jack, Queen, King
+
+Happy guessing! :D

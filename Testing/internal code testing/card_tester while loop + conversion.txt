@@ -1,0 +1,6 @@
+input	 expected output	output
+5	 5			5
+11	 "Jack"			"Jack"
+c	 N/A (question reasked) N/A (question reasked)
+$	 N/A (question reasked) N/A (question reasked)
+20	 N/A (question reasked) N/A (question reasked)

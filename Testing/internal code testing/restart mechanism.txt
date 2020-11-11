@@ -1,0 +1,16 @@
+Test 1 -
+Pick reshuffled	X
+Variables reset ✓
+While loop broken ✓
+
+after adjustment...
+
+Test 2 - 
+Pick resuffled ✓
+Variables reset ✓
+While loop broken ✓
+
+Test 3 - 
+Pick resuffled ✓
+Variables reset ✓
+While loop broken ✓

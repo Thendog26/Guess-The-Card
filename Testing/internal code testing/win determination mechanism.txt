@@ -1,0 +1,5 @@
+pick		final guess	determined output
+"9 of Spades"   "9 of Spades"	Win
+"7 of Hearts"	"6 of Hearts"	Loss
+"6 of Clubs"	"6 of Spades"	Loss
+"2 of Diamonds"	"2 of Diamonds"	Win
